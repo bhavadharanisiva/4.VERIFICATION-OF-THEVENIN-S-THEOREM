@@ -49,6 +49,9 @@ To measure VTh or Voc
 Thevenin’s equivalent circuit
 
 <img width="313" height="164" alt="image" src="https://github.com/user-attachments/assets/2de70f30-9d20-46c2-a05d-2cf793137885" />
+![WhatsApp Image 2025-10-16 at 21 14 03_28cdcedb](https://github.com/user-attachments/assets/fc984049-6365-4caa-81f9-5b317ee36bad)
+![WhatsApp Image 2025-10-16 at 21 14 05_41cf742a](https://github.com/user-attachments/assets/719ef59e-5132-42cb-a2fd-df2691b8405f)
+![WhatsApp Image 2025-10-16 at 21 15 52_972db6eb](https://github.com/user-attachments/assets/6b33df8b-fcba-4d3c-97ce-01d2d8a2631e)
 
 
 **PROCEDURE:**
