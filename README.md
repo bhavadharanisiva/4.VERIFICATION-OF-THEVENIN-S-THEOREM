@@ -1,7 +1,8 @@
 # 4.VERIFICATION-OF-THEVENIN-S-THEOREM
 
 **AIM:**
-
+## NAME:BHAVADHARANI S
+## REF NO:25008804
 To verify Thevenin’s theorem practically and theoretically for the given DC circuit.
 
 **APPARATUS REQUIRED**:
